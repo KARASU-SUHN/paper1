@@ -3,6 +3,7 @@
 
 # In[1]:
 
+#show the polarity example
 
 import networkx as nx
 import networkx.algorithms.community as nxcom
